@@ -10,4 +10,5 @@ NLP_sentences summary & chatbot
 - XLNet
 - OpenAI GPT-2
 - OpenAI GPT-3
+
 위의 논문을 통해서 영어 공부 겸 대학원 강의 복습을 함께 할 예정이다.
